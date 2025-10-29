@@ -19,15 +19,7 @@ Offer a simple web-based interface using Gradio for real-time prediction.
 The model is built using a Convolutional Neural Network (CNN) trained with TensorFlow and Keras.
 It analyzes image features like color, texture, and shape to classify crop conditions accurately.
 
-📂 Dataset
 
-The dataset contains 4 folders, each with 10 sample images:
-
-dataset/
- ├── healthy_crop/
- ├── unhealthy_crop/
- ├── weeds/
- └── dry_soil/
 
 
 Each folder represents one label used to train the model.
